@@ -10,8 +10,7 @@ description = "TEMPLATE PROJECT"
 readme = "README.md"
 requires-python = ">=3.9"
 license = { file = "LICENSE" }
-authors = [{ name = "Gianmarco Puleo", email = "74814411+g-puleo@users.noreply.github.com
-" }]
+authors = [{ name = "Gianmarco Puleo", email = "74814411+g-puleo@users.noreply.github.com" }]
 dynamic = ["dependencies"]
 
 [tool.setuptools.packages.find]
