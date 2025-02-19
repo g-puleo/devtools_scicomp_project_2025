@@ -222,5 +222,5 @@ cython_debug/
 # DS_Store for Mac users
 .DS_Store
 
-.dat
-.data
+*.dat
+*.data
